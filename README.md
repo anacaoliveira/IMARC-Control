@@ -6,11 +6,13 @@ List of resources used by the control/software group of Iowa Marine Autonomous R
 Where to find more information and who to contact
 [https://www.engineering.uiowa.edu/current-students/student-organizations/iowa-marine-autonomous-racing-club-imarc](https://www.engineering.uiowa.edu/current-students/student-organizations/iowa-marine-autonomous-racing-club-imarc)
 
+## 2021 Rules & Task Description:
+[https://robonation.org/app/uploads/sites/3/2021/04/RoboBoat-2021-Rules-and-Task-Description_V2.pdf](https://robonation.org/app/uploads/sites/3/2021/04/RoboBoat-2021-Rules-and-Task-Description_V2.pdf)
+
 To find the up to date RobotBoat guideline and other resources:
 [https://roboboat.org/resources/](https://roboboat.org/resources/)
 
-## 2021 Rules & Task Description:
-[https://robonation.org/app/uploads/sites/3/2021/04/RoboBoat-2021-Rules-and-Task-Description_V2.pdf](https://robonation.org/app/uploads/sites/3/2021/04/RoboBoat-2021-Rules-and-Task-Description_V2.pdf)
+## Resources
 
 Considering that not everyone have access to a Linux computer we will focus on using the ROS Toolbox within MATLAB. **The university offers a MATLAB license to all student** (in the same link you will find instructions on how to install it !)
 
