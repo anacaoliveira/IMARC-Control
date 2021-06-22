@@ -20,7 +20,7 @@ Get Started with ROS: [https://www.mathworks.com/help/ros/ug/get-started-with-ro
 
 More information about the ROS Toolbox: [https://www.mathworks.com/help/ros/index.html?s_tid=CRUX_lftnav](https://www.mathworks.com/help/ros/index.html?s_tid=CRUX_lftnav)
 
-(ROS 2 or ROS 3?)
+ROS 
 
 If ROS 2:
 - Free without certificate
