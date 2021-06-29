@@ -18,6 +18,6 @@ Considering that not everyone have access to a Linux computer we will focus on u
 
 ## ROS 
 
-If ROS 2:
+ROS 2:
 - Free without certificate
 [https://www.coursera.org/projects/ros2-intro](https://www.coursera.org/projects/ros2-intro)
