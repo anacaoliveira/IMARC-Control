@@ -15,12 +15,8 @@ To find the up to date RobotBoat guideline and other resources:
 
 Considering that not everyone have access to a Linux computer we will focus on using the ROS Toolbox within MATLAB. **The university offers a MATLAB license to all student** (in the same link you will find instructions on how to install it !): [https://its.uiowa.edu/matlab](https://its.uiowa.edu/matlab)
 
-### ROS
-Get Started with ROS: [https://www.mathworks.com/help/ros/ug/get-started-with-ros.html](https://www.mathworks.com/help/ros/ug/get-started-with-ros.html)
 
-More information about the ROS Toolbox: [https://www.mathworks.com/help/ros/index.html?s_tid=CRUX_lftnav](https://www.mathworks.com/help/ros/index.html?s_tid=CRUX_lftnav)
-
-ROS 
+## ROS 
 
 If ROS 2:
 - Free without certificate
