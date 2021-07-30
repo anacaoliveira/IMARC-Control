@@ -1,6 +1,6 @@
 # Iowa Marine Autonomous Racing Club - Control/Software Group
 
-List of resources used by the control/software group of Iowa Marine Autonomous Racing Club ⚓
+List of resources used by the control/software group of the University of Iowa's Marine Autonomous Racing Club ⚓
 
 "IMARC is a technical organization focused on designing and building autonomous boats for participation in national and international competitions, such as the Association of Unmanned Vehicle Systems International (AUVSI)'s RoboBoat competition."
 To find more information and who to contact: [https://www.engineering.uiowa.edu/current-students/student-organizations/iowa-marine-autonomous-racing-club-imarc](https://www.engineering.uiowa.edu/current-students/student-organizations/iowa-marine-autonomous-racing-club-imarc)
@@ -50,4 +50,4 @@ Launch the VRX simulation:
 ```
 roslaunch vrx_gazebo sandisland.launch
 ```
-This steps are necessary everytime you want to run the simulator. 
+This steps are necessary everytime you open a new terminal. 
