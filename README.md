@@ -12,12 +12,36 @@ To find the up to date RobotBoat guideline and other resources:
 [https://roboboat.org/resources/](https://roboboat.org/resources/)
 
 ## Resources
-
-Considering that not everyone have access to a Linux computer we will focus on using the ROS Toolbox within MATLAB. **The university offers a MATLAB license to all student** (in the same link you will find instructions on how to install it !): [https://its.uiowa.edu/matlab](https://its.uiowa.edu/matlab)
+Considering that not everyone have access to a Linux computer we can use the ROS Toolbox within MATLAB. **The university offers a MATLAB license to all student** (in the same link you will find instructions on how to install it !): [https://its.uiowa.edu/matlab](https://its.uiowa.edu/matlab)
 
 
 ## ROS 
+- ROS Tutorials
+http://wiki.ros.org/ROS/Tutorials
 
-ROS 2:
-- Free without certificate
+- Free course without certificate
 [https://www.coursera.org/projects/ros2-intro](https://www.coursera.org/projects/ros2-intro)
+
+
+## VRX
+
+Follow the tutorials to install the VRX simulation (https://github.com/osrf/vrx/wiki)
+
+1. After instalation, build and run the VRX Platform
+
+Source the ROS setup.bash file: 
+ source /opt/ros/noetic/setup.bash
+
+Use catkin_make to build the software:
+ cd ~/vrx_ws
+ catkin_make
+
+2. Run (You must source these files every time you start a new tutorial/open a new terminal.)
+
+Source the created VRX setup.bash: 
+ source  ~/vrx_ws/devel/setup.bash
+
+Launch the VRX simulation:
+ roslaunch vrx_gazebo sandisland.launch
+
+This steps are necessary everytime you want to run the simulator. 
