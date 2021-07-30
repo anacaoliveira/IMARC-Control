@@ -40,8 +40,7 @@ cd ~/vrx_ws
 catkin_make
 ```
 
-2. Run (You must source these files every time you start a new tutorial/open a new terminal.)
-
+2. Run 
 Source the created VRX setup.bash: 
 ```
 source  ~/vrx_ws/devel/setup.bash
