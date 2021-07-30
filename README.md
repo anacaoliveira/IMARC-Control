@@ -30,18 +30,24 @@ Follow the tutorials to install the VRX simulation (https://github.com/osrf/vrx/
 1. After instalation, build and run the VRX Platform
 
 Source the ROS setup.bash file: 
- source /opt/ros/noetic/setup.bash
+'''
+source /opt/ros/noetic/setup.bash
+'''
 
 Use catkin_make to build the software:
- cd ~/vrx_ws
- catkin_make
+'''
+cd ~/vrx_ws
+catkin_make
+'''
 
 2. Run (You must source these files every time you start a new tutorial/open a new terminal.)
 
 Source the created VRX setup.bash: 
- source  ~/vrx_ws/devel/setup.bash
-
+'''
+source  ~/vrx_ws/devel/setup.bash
+'''
 Launch the VRX simulation:
- roslaunch vrx_gazebo sandisland.launch
-
+'''
+roslaunch vrx_gazebo sandisland.launch
+'''
 This steps are necessary everytime you want to run the simulator. 
