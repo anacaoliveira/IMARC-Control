@@ -50,3 +50,7 @@ Launch the VRX simulation:
 roslaunch vrx_gazebo sandisland.launch
 ```
 This steps are necessary everytime you open a new terminal. 
+
+
+--WSL Installation
+https://jack-kawell.com/2019/06/24/ros-wsl1/
