@@ -1,0 +1,10 @@
+Open terminal and navigate to src folder in your catkin workspace:
+
+cd ~/catkin_ws/src
+
+Another option is to get to src from the file explorer, place downloaded file inside src.
+
+Once it is completed return to terminal & do the following:
+
+cd ~/catkin_ws 
+catkin_make
