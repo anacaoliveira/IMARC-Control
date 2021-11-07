@@ -11,11 +11,11 @@ Download the package inside this folder :
 *> git clone https://github.com/anacaoliveira/IMARC-Control/pid_controller/*
 
 Now return to the catkin workspace and build it to get all changes saved :
-*> cd ~/catkin_ws 
-> catkin_make*
+*> cd ~/catkin_ws *
+*> catkin_make*
 
 Another option is to dowload the folder, navigate through the file explorer and find the src folder. Move the pid_controller folder to your src folder.
 
 Once it is completed return to terminal & do the following:
-*> cd ~/catkin_ws 
-> catkin_make*
+*> cd ~/catkin_ws *
+*> catkin_make*
