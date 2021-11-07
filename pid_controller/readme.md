@@ -9,7 +9,7 @@ cd ~/catkin_ws/src
 ```
 Download the package inside this folder :
 ```
-git clone https://github.com/anacaoliveira/pid_controller_IMARC.git
+git clone https://github.com/anacaoliveira/pid_controller.git
 ```
 
 Now return to the catkin workspace and build it to get all changes saved :
