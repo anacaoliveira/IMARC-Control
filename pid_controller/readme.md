@@ -24,3 +24,14 @@ Once it is completed return to terminal & do the following:
 cd ~/catkin_ws
 catkin_make
 ```
+From the code author's github repository (https://github.com/nagarjunvinukonda/TurtleBot-Path-Tracking-using-PID-Controller): 
+
+#Lauching simulation
+```
+roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
+```
+Once gazebo is launched, open another terminal, then
+```
+source ./devel/setup.bash
+rosrun pid_controller pid_controller
+```
